@@ -1,0 +1,10 @@
+.retangulo{
+    width: 200px;
+    height: 100px;
+    background: green;
+    border: solid 2px black;
+    box-shadow: 3px 3px 4px gray;
+    padding: 20px;
+    color: white;
+
+}

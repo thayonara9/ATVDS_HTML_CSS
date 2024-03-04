@@ -1,0 +1,10 @@
+.caixa{
+    border: solid 3px purple;
+    border-radius: 8px;
+    box-shadow: 1px 1px 2px rgb(194, 192, 192);
+    height: 100px;
+    width: 250px;
+    margin: 10px;
+    padding: 50px;
+    background-color: rgb(107, 107, 107);
+}

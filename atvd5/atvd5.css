@@ -1,0 +1,22 @@
+.i2{
+    padding: 10px;
+     border: 1px solid ;
+     background-color: rgb(221, 221, 219);
+     border-radius: 5px;
+     margin: 1px;
+}
+
+.onepiece:first-child{
+    color: red;
+    background-color: rgb(252, 252, 221);
+    border: 1px solid;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.swortartonline:last-child{
+    background-color: rgb(206, 247, 247);
+    padding: 10px;
+    border-radius: 5px;
+    
+}

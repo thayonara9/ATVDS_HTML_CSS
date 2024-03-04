@@ -1,0 +1,21 @@
+.tabela{
+    border: solid 1px  rgb(146, 146, 146);
+    border-radius: 5px;
+    margin: 1px;
+    
+}
+td{
+    border: solid 1px rgb(146, 146, 146);
+    padding: 10px;
+}
+th{
+    border: solid rgb(146, 146, 146) 1px;
+    padding: 10px;   
+}
+.linha1{
+    background-color: rgb(201, 201, 238);
+    color: rgb(226, 141, 188);
+}
+.linha3{
+    background-color: #c8ecb9;
+}
