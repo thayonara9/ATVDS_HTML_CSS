@@ -23,7 +23,7 @@
     font-weight: bold;
   }
 
-  .card img {
+  .card_img {
     width: 90%;
     height: 50%;
     object-fit: cover;
